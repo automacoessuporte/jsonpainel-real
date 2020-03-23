@@ -1,14 +1,6 @@
 ﻿{
   "Execucao_InstanciasDIV": [
     {
-      "Setor": "Seminovos",
-      "NomeRobo": "EstoqueCRV",
-      "QtdInstancias": 1.0,
-      "QtdExecutada": 913.0,
-      "QtdTotal": 913.0,
-      "Perct": 100.0
-    },
-    {
       "Setor": "Faturamento",
       "NomeRobo": "Analise de contratos Faturamento",
       "QtdInstancias": 3.0,
