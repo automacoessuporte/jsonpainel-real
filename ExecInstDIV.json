@@ -1,7 +1,7 @@
 ﻿{
   "Execucao_InstanciasDIV": [
     {
-      "Setor": "Documentacao",
+      "Setor": "Seminovos",
       "NomeRobo": "EstoqueCRV",
       "QtdInstancias": 1.0,
       "QtdExecutada": 913.0,
@@ -33,7 +33,7 @@
       "Perct": 0.0
     },
     {
-      "Setor": "Documentacao",
+      "Setor": "Seminovos",
       "NomeRobo": "Etiquetas Correio",
       "QtdInstancias": 1.0,
       "QtdExecutada": 64.0,
